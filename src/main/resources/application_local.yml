@@ -1,0 +1,4 @@
+input:
+    fileName: /home/andrew/linux_workspace/tetris-batch/src/main/resources/providedInput.txt
+output:
+    fileName: /home/andrew/linux_workspace/tetris-batch/src/main/resources/output.txt
